@@ -45,7 +45,7 @@ jobs:
 
       - name: Run validations
         run: |
-          ./ci/validate-manifests.sh
+          ./ci/validate-manifests.sh -a
 
       - name: Diff with target
         run: |
