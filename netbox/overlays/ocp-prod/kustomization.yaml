@@ -33,5 +33,4 @@ patches:
 
 images:
   - name: quay.io/netboxcommunity/netbox
-    newName: quay.io/larsks/netbox
-    newTag: remote-group-autocreate-1.4.1-4
+    newTag: v3.1
